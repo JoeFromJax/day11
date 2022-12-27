@@ -1,0 +1,22 @@
+{
+  "name": "day11",
+  "version": "1.0.0",
+  "description": "1. Create a function that takes a single argument, a number, and after a timeout of 5 seconds, logs the number to the console.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeFromJax/day11.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoeFromJax/day11/issues"
+  },
+  "homepage": "https://github.com/JoeFromJax/day11#readme",
+  "dependencies": {
+    "prompt-promise": "^1.0.3"
+  }
+}
